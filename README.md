@@ -37,6 +37,7 @@ Located in the `libs/` folder:
 
 - `mysql-connector-java-8.0.26.jar` – JDBC driver for MySQL
 - `ResultSetXml.jar` – Contains `DbUtils` for converting `ResultSet` to `TableModel`
+
 The project uses `DbUtils` (from `ResultSetXml.jar`) to simplify the process of populating `JTable` components directly from SQL queries
 
 ---

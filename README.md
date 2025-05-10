@@ -1,6 +1,6 @@
 # Hospital Management System
 
-A desktop-based Hospital Management System built entirely in **Java Swing** (designed by code, not drag-and-drop). The system uses **MySQL** as its database and connects through **JDBC**.
+A desktop-based Hospital Management System built entirely in **Java Swing**. The system uses **MySQL** as its database and connects through **JDBC**.
 
 This project provides an intuitive interface for hospital staff to manage patients with full CRUD capabilities and billing features, while also enabling them to efficiently view and manage employees, departments, and rooms.
 

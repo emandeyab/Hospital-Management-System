@@ -70,7 +70,7 @@ The project uses `DbUtils` (from `ResultSetXml.jar`) to simplify the process of 
 ![Update](src/screens/update.png)
 
 ### Checkout
-![Checkout](src/screens/check.png)
+![Checkout](src/screens/checkout.png)
 
 
 ---
